@@ -3,6 +3,14 @@
 !/README.md
 !/docs/
 !/docs/*.html
+!/docs/android-chrome-192x192.png
+!/docs/CNAME
+!/docs/favicon.ico
+!/docs/android-chrome-512x512.png
+!/docs/favicon-16x16.png
+!/docs/apple-touch-icon.png
+!/docs/favicon-32x32.png
+!/docs/site.webmanifest
 !/src/
 !/src/*.pdf
 !/src/logos/
