@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/README.md
+!/docs/
+!/docs/*.html
+!/src/
+!/src/*.pdf
+!/src/logos/
+!/src/logos/*.png
