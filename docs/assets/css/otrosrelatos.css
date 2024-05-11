@@ -6,3 +6,6 @@
   margin-top: 18px;
 }
  */
+#services ol {
+  list-style: decimal;
+}
