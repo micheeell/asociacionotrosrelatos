@@ -24,7 +24,7 @@ Web page for public association _Otros Relatos_
 <meta property="og:title" content="Asociaci&oacuten Civil Otros Relatos" />
 <meta property="og:url" content="https://asociacionotrosrelatos.com.ar/" />
 <meta property="og:image" content="https://asociacionotrosrelatos.com.ar/img/share-preview.jpg" />
-<meta property="og:description" content="Otros Relatos es una Asociación Civil de prevenci&oacute;n de la violencia, conformado por un equipo multidisciplinario de profesionales con perspectiva de género."/> 
+<meta property="og:description" content="Otros Relatos es una Asociaci&oacute;n Civil de prevenci&oacute;n de la violencia, conformada por un equipo multidisciplinario de profesionales con perspectiva de género."/> 
 ```
 7. Check [responsive guide](https://www.browserstack.com/guide/how-to-create-responsive-website) for reference
 ```html
